@@ -12,7 +12,7 @@ This is a MySQL database project for managing university data, including student
 
 ## For more Info :
 - read the analysis pdf of the case study 
-[Link Text](result.pdf)
+[result.pdf](result.pdf)
 
 ## How to Use:
 1. Import the `university.sql` file into your MySQL server.
