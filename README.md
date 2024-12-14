@@ -1,6 +1,8 @@
 # University Database Project
 This is a MySQL database project for managing university data, including students, professors, courses, and evaluations.
 
+![Project Preview](University_Mapping.png)
+
 ## Features (14) Table :
 - Tables for students, professors, courses, departments, exams,.... etc.
 - Queries to retrieve data such as:
@@ -10,6 +12,7 @@ This is a MySQL database project for managing university data, including student
 
 ## For more Info :
 - read the analysis pdf of the case study 
+![Project Preview](result.pdf)
 
 ## How to Use:
 1. Import the `university.sql` file into your MySQL server.
